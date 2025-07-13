@@ -1,40 +1,34 @@
-# TechFlow Agile System
+# Construindo um Projeto Ágil no GitHub: Da Gestão ao Controle de Qualidade
 
-## 🎯 Objetivo
-Desenvolver um sistema de gerenciamento de tarefas com foco em metodologias ágeis para uma startup de logística fictícia.
+## 🎯 Objetivo do Projeto
+Desenvolver um sistema de gerenciamento de tarefas utilizando metodologias ágeis, permitindo à startup cliente acompanhar o fluxo de trabalho em tempo real, priorizar tarefas críticas e monitorar o desempenho da equipe.
 
 ## 📦 Escopo
-- Gerenciar tarefas
-- Priorizar atividades
-- Acompanhar progresso em tempo real
+- CRUD básico de tarefas
+- Campo de prioridade
+- Interface em linha de comando (terminal)
+- Integração com testes automatizados
 
-## 🚀 Metodologia
-Metodologia adotada: **Kanban**
-Utilizamos a aba "Projects" do GitHub para gerenciar o fluxo do projeto.
+## 🚀 Metodologia Adotada
+A metodologia usada foi o **Kanban**, implementado usando a aba **Projects** do GitHub. As tarefas foram organizadas nas colunas:
+- A Fazer
+- Em Progresso
+- Concluído
 
-## ⚙️ Execução
-### Requisitos:
-- Python 3
+## ⚙️ Como Executar
+Requisitos: Python 3 instalado
 
-### Como rodar:
 ```bash
 python src/app.py
 
-🔁 Gestão de Mudanças
-Durante o desenvolvimento, foi realizada uma mudança de escopo para adicionar prioridade às tarefas. Detalhes na seção específica.
+✅ Testes Automatizados
+Os testes são executados automaticamente via GitHub Actions ao fazer push no repositório. Os testes estão localizados na pasta tests.
 
-👨‍💻 Equipe
-GuILS00
+🔁 Mudança no Escopo
+Durante o desenvolvimento, foi simulada uma mudança de escopo solicitada pelo cliente, que incluiu a adição de prioridade nas tarefas. O CRUD foi ajustado para aceitar esse novo atributo.
 
+📊 Diagramas UML
+Os diagramas de Casos de Uso e Classes estão disponíveis na pasta /docs, criados com a ferramenta draw.io.
 
----
-
-### 🔹 **5. Commit e Push dessa estrutura inicial**
-
-Se estiver usando terminal:
-
-```bash
-git add .
-git commit -m "chore: cria estrutura inicial do projeto com pastas e README base"
-git push origin main
+Guilherme L. dos Santos (GuILS00)
 
