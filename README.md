@@ -1,3 +1,4 @@
+
 # Construindo um Projeto Ágil no GitHub: Da Gestão ao Controle de Qualidade
 
 ## 🎯 Objetivo do Projeto
@@ -30,8 +31,5 @@ Durante o desenvolvimento, foi simulada uma mudança de escopo solicitada pelo c
 📊 Diagramas UML
 Os diagramas de Casos de Uso e Classes estão disponíveis na pasta /docs, criados com a ferramenta draw.io.
 
+👤 Autor
 Guilherme L. dos Santos (GuILS00)
-
-
-
-
