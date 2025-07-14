@@ -22,7 +22,7 @@ jobs:
         run: pip install pytest
 
       - name: Add src to PYTHONPATH
-        run: echo "PYTHONPATH=$(pwd)/src" >> $GITHUB_ENV
+        run: echo "PYTHONPATH=$GITHUB_WORKSPACE/src" >> $GITHUB_ENV
 
-      - name: Run pytest
+      - name: Run tests
         run: pytest
