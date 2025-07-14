@@ -1,5 +1,8 @@
 tasks = []
 
+def soma(a, b):
+    return a + b
+
 def add_task(title):
     task = {"title": title, "done": False}
     tasks.append(task)
