@@ -61,3 +61,5 @@ cd techflow-agile-system
 
 ## 🔁 Mudança no Escopo
 Durante o projeto, decidimos **adicionar uma categoria às tarefas** para simular um novo requisito. O código e o Kanban foram atualizados para refletir isso.
+
+
