@@ -33,3 +33,31 @@ Os diagramas de Casos de Uso e Classes estão disponíveis na pasta /docs, criad
 
 👤 Autor
 Guilherme L. dos Santos (GuILS00)
+
+# TechFlow Agile System
+
+## 🎯 Objetivo
+Criar um sistema simples de gerenciamento de tarefas utilizando metodologias ágeis (Kanban) e boas práticas de Engenharia de Software.
+
+## 📌 Escopo
+- CRUD de tarefas com título e status
+- Testes automatizados com GitHub Actions
+- Simulação de mudança no escopo
+- Gestão de tarefas com GitHub Projects
+
+## 🛠️ Metodologia
+- **Kanban** (GitHub Projects)
+- **GitHub Actions** para integração contínua
+- **Commits frequentes e bem descritos**
+
+## ▶️ Como Executar
+1. Clone o repositório:
+
+git clone https://github.com/seuusuario/techflow-agile-system.git
+cd techflow-agile-system
+
+2. Instale as dependências:
+
+
+## 🔁 Mudança no Escopo
+Durante o projeto, decidimos **adicionar uma categoria às tarefas** para simular um novo requisito. O código e o Kanban foram atualizados para refletir isso.
