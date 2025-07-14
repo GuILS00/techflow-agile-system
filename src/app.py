@@ -1,5 +1,13 @@
 tasks = []
 
+def add_task(title):
+    task = {"title": title, "done": False}
+    tasks.append(task)
+    return task
+
+def get_tasks():
+    return tasks
+    
 def create_task(title, priority="normal"):
     task = {"id": len(tasks) + 1, "title": title, "priority": priority}
     tasks.append(task)
