@@ -34,3 +34,33 @@ A metodologia utilizada foi o **Kanban**, com tarefas organizadas nas colunas:
 ### ▶️ Executar via terminal:
 ```bash
 python src/app.py
+
+✅ Testes Automatizados
+Os testes estão localizados na pasta /tests
+
+São executados automaticamente via GitHub Actions sempre que há um push no repositório.
+
+🔁 Simulação de Mudança no Escopo
+Durante o desenvolvimento, foi simulada uma mudança de escopo, conforme exigido no projeto:
+
+Adição do campo prioridade às tarefas.
+
+O código foi ajustado para suportar esse novo atributo.
+
+O quadro Kanban foi atualizado com tarefas relacionadas a essa mudança.
+
+Essa simulação representa a capacidade de adaptação a novos requisitos.
+
+📊 Modelagem UML
+Os diagramas foram criados com a ferramenta draw.io e estão disponíveis na pasta /docs.
+
+📌 Diagrama de Casos de Uso
+
+
+📌 Diagrama de Classes
+
+
+👥 Autor
+Guilherme da Lapa S.
+GuILS00
+GitHub
