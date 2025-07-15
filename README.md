@@ -77,3 +77,6 @@ Entrega contínua
 Flexibilidade para mudanças no escopo
 
 A experiência foi extremamente valiosa para aplicar os conceitos de Engenharia de Software com uma abordagem prática e moderna.
+
+video no youtube
+https://youtu.be/pO5QPp2mtxw
