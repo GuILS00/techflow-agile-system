@@ -64,3 +64,16 @@ Os diagramas foram criados com a ferramenta draw.io e estão disponíveis na pas
 Guilherme da Lapa S.
 GuILS00
 GitHub
+
+🧠 Reflexão Final
+Este projeto simula na prática o desenvolvimento ágil de um sistema real, colocando em ação conhecimentos sobre:
+
+Planejamento de tarefas
+
+Controle de qualidade
+
+Entrega contínua
+
+Flexibilidade para mudanças no escopo
+
+A experiência foi extremamente valiosa para aplicar os conceitos de Engenharia de Software com uma abordagem prática e moderna.
